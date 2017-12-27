@@ -2,12 +2,12 @@
 
 Universal programmable controller. WII controller integrated.
 
-**How it works?
+**How it works?**
 
 https://youtu.be/rxiIraC9pow
 
 
-**License
+**License**
 
 Free to use.
 
